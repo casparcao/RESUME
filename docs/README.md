@@ -2,7 +2,7 @@
 ### 一 基本信息  
 姓名：曹海龙  
 性别：男  
-工作年限：5年  
+工作年限：6年  
 出生年月：88.12  
 电话：15628998226  
 邮箱：casparcao@aliyun.com  
@@ -10,22 +10,23 @@
 现住：济南长清  
 
 ### 二 社交主页
-[个人博客](https://mikecao.cn)  
 [个人简历](https://r.mikecao.cn)  
 [开源中国](https://my.oschina.net/HeliosFly)  
 [GitHub](https://github.com/casparcao)  
 
 ### 三 个人技能
-1. 擅长Java平台，喜欢Java8，Java9中的新特性，喜欢研究JVM，NIO，期待Java9  
-2. 喜欢Python平台  
+0. 擅长Java平台开发，喜欢研究前沿技术，喜欢研究JVM，NIO  
+1. 擅长异步非阻塞的Reactor模型，喜欢处理多线程高并发场景
+2. 喜欢Python平台，且有所研究  
 3. 擅长Spring Frameworks，等常用的第三方框架  
 4. 擅长基于Spring Boot与Spring Cloud的微服务架构  
-5. 对Docker等容器技术有所研究，并实践    
+5. 对Docker等容器技术有所研究，并实践
+6. 对消息队列，非关系型数据库等技术都有实践
 6. 对大数据，机器学习领域有较大兴趣，正在阅读学习  
-7. 擅长建模，擅长应用设计模式  
+7. 擅长建模，擅长应用各种设计模式，认可 [12Factors](https://12factor.net/zh_cn/)
 8. 熟悉各大开放平台接口  
-9. 喜欢写博客分享心得  
-10. 喜欢开源，喜欢在linux上进行开发    
+9. 喜欢写博客分享心得，社区交流  
+10. 喜欢开源，喜欢在linux上进行开发
 
 
 ### 四 工作经历
