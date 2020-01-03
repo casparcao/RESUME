@@ -24,11 +24,11 @@
 1. 擅长异步非阻塞的Reactor模型，喜欢处理多线程高并发场景，压榨机器性能
 2. 关注系统安全，熟悉安全相关知识
 3. 熟悉消息队列，SQL/NOSQL技术，熟悉数据库锁/事务/索引/优化
-4. 熟悉分布式集群系统的设计，清楚CAP，BASE理论
-5. 擅长建模，擅长应用各种设计模式，认可 [12Factors](https://12factor.net/zh_cn/)  SOLID
+4. 熟悉分布式集群系统的设计，清楚CAP，BASE理论, DevOps理念
+5. 擅长建模，擅长应用各种设计模式，践行[12Factors](https://12factor.net/zh_cn/) 及SOLID原则
 6. 擅长Spring Frameworks，等常用的第三方框架  
 7. 擅长基于Spring Boot与Spring Cloud的微服务架构  
-8. 对Docker等容器技术有所研究，并实践
+8. 对Docker，K8S等容器技术有所研究，并实践
 9. 喜欢写博客分享心得，社区交流；喜欢开源，喜欢在linux上进行开发
 
 
