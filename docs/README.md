@@ -32,10 +32,10 @@
 1. 擅长性能调优，处理**多线程高并发**场景
 2. 关注系统安全，熟悉安全相关知识
 3. 熟悉**消息队列**，SQL/**NOSQL**技术，熟悉数据库锁/事务/索引/优化
-4. 熟悉**分布式**系统的设计，清楚CAP，BASE理论, DevOps理念
+4. **持续学习**，热爱阅读，不断提升自我
 5. 擅长建模，擅长应用各种**设计模式**，践行[12Factors](https://12factor.net/zh_cn/) 及**SOLID**原则
-6. 擅长Spring Frameworks，等常用的第三方框架  
-7. 擅长基于Spring Boot与**Spring Cloud**的**微服务架构**  
+6. 擅长Spring Frameworks，**Spring Cloud**等常用的第三方框架  
+7. 擅长基于DDD领域驱动设计的**微服务架构**  
 8. 对Docker，K8S等容器技术有所研究，并实践
 9. 喜欢写博客分享心得，社区交流；喜欢**开源**，喜欢在linux上进行开发
 10. 有多年**技术管理**经验，善于充分提升**团队人效**，把控交付质量及效率
@@ -200,4 +200,4 @@
 
 ## 九 个人头像
 
-![头像](./../avatar.png)
+![头像](https://github.com/casparcao/RESUME/raw/master/avatar.png)
