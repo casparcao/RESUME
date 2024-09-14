@@ -18,7 +18,8 @@
 
 ## 三 个人作品
 
-[OpenChat](https://github.com/casparcao/openchat)
+[OpenChat](https://github.com/casparcao/openchat)  
+![小程序(今儿个吃点儿啥)](https://github.com/casparcao/RESUME/raw/master/whatever.png)
 
 ## 四 代码观
 
